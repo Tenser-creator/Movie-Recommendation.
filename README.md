@@ -28,4 +28,11 @@ facial emotion using OpenCV, and recommends movies that match that mood.
 4. Visit `http://localhost:5000`
 
 ## Contact
-Dhruv Balaiwar — balaiwardhruv@gmail.com
+
+Dhruv Balaiwar
+
+Email: balaiwardhruv@gmail.com
+
+LinkedIn:www.linkedin.com/in/dhruv-balaiwar-37a48430a
+
+GitHub: https://github.com/Tenser-creator

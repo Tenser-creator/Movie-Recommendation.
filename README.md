@@ -17,6 +17,8 @@ facial emotion using OpenCV, and recommends movies that match that mood.
 ## Features
 - Real-time facial emotion detection via OpenCV
 - Flask web interface showing detected emotion + movie list
+- Emotion detection using webcam
+- Emotion-based movie recommendations
   
 
 ## Installation

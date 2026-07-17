@@ -7,14 +7,17 @@ facial emotion using OpenCV, and recommends movies that match that mood.
 > customized and extended as a personal learning project.
 
 ## What I changed
-- [list your actual changes here — e.g. "rebuilt the emotion detection pipeline
-  with preprocessing for noisy webcam input", "modified the Flask routes and
-  HTML templates", "added single-face handling", etc. — be specific and honest]
+
+- Integrated the project with Flask for a web interface.
+- Customized the HTML pages for a better user experience.
+- Added image preprocessing before emotion detection.
+- Improved single-face detection to reduce incorrect predictions.
+- Modified the recommendation logic to display emotion-based movie suggestions.
 
 ## Features
 - Real-time facial emotion detection via OpenCV
 - Flask web interface showing detected emotion + movie list
-- [any UI/logic changes you made]
+  
 
 ## Installation
 1. Clone the repo: `git clone https://github.com/Tenser-creator/Movie-Recommendation..git`

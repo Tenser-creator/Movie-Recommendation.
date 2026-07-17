@@ -1,4 +1,6 @@
-# Movie Recommendation Based on Emotion
+# 🎬 Emotion-Based Movie Recommendation System
+
+Real-time facial emotion detection and movie recommendation using OpenCV, Flask, and Machine Learning.
 
 A Flask web app that captures a live webcam frame, detects the user's dominant
 facial emotion using OpenCV, and recommends movies that match that mood.
